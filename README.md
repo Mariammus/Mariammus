@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет! Я Мариам 👋
 
-<!--
-**Mariammus/Mariammus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Начинающий 1С-разработчик (Junior)**
 
-Here are some ideas to get you started:
+Активно развиваюсь в разработке на платформе 1С:Предприятие 8.3. Мой путь в IT начался с автоматизации бизнес-процессов в MS Excel и работы с претензиями в крупных компаниях (Saint-Gobain, KT&G), что дало мне четкое понимание того, как работает реальный учет.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мой стек и навыки:
+*   **Платформа 1С:** Управляемые формы, СКД, разработка отчетов и обработок, работа с регистрами, БСП.
+*   **Сертификация:** Сертифицированный **1С:Профессионал** по платформе 8.3.
+*   **Инструменты:** Конфигуратор, основы Git и EDT.
+*   **Бизнес-логика:** Понимание процессов документооборота, рекламаций и учета.
+*   **Языки:** Английский — C1 (Advanced).
+
+---
+### Мои проекты (решенные задачи):
+*   [Учет скоропортящихся товаров](ССЫЛКА) — партионный учет (FIFO), контроль остатков и блокировки.
+
+📧 **Связь со мной:** [mariameremina@gmail.com](mailto:mariameremina@gmail.com) | [Telegram] @MEB_1989
+
