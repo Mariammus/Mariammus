@@ -13,7 +13,7 @@
 
 ---
 ### Мои проекты (решенные задачи):
-*   [Учет скоропортящихся товаров]([https://github.com/Mariammus/Internship_Tasks/tree/main/1C_FIFO]) — партионный учет (FIFO), контроль остатков и блокировки.
+* [Задача на списание FIFO](https://github.com/Mariammus/Internship_Tasks/tree/main/1C_FIFO) — партионный учет (FIFO), контроль остатков и блокировки.
 
 📧 **Связь со мной:** [mariameremina@gmail.com](mailto:mariameremina@gmail.com) | [Telegram] @MEB_1989
 
